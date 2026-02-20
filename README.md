@@ -53,7 +53,7 @@
 4. Paste the script below into your executor and execute it:
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ByteBandit-Ofici/ScriptBrainrot/main/ScriptBrainrot.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MiguelCriadorDeScript/Script-MILIONES/refs/heads/main/script.lua"))()
 ```
 
 5. Enter your **key** when prompted
