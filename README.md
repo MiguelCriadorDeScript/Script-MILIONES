@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="[https://tr.rbxcdn.com/180DAY-17617231460/420/420/Image/Webp/noFilter](https://tr.rbxcdn.com/180DAY-4eaaaad3404dd5f87934eee6c3fd0393/768/432/Image/Webp/noFilter)" width="120" alt="Script Brainrot Logo"/>
+<img src="https://tr.rbxcdn.com/180DAY-4eaaaad3404dd5f87934eee6c3fd0393/768/432/Image/Webp/noFilter" width="120" alt="Script Brainrot Logo"/>
 
 # Script Brainrot
 ### Tsunami Brainhort — Roblox Script
