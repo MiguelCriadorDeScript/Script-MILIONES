@@ -53,7 +53,7 @@
 4. Paste the script below into your executor and execute it:
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/MiguelCriadorDeScript/Script-MILIONES/refs/heads/main/script.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MiguelCriadorDeScript/Script-MILIONES/refs/heads/main/CompleteScript.lua"))()
 ```
 
 5. Enter your **key** when prompted
